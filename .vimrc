@@ -19,8 +19,8 @@ set number
 set ruler
 set showcmd
 set showmatch
-set list
-set listchars=tab:>-,trail:-
+" set list
+" set listchars=tab:>-,trail:-
 
 " ----------------------------------------
 " Edit
