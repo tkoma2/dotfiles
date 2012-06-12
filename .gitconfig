@@ -1,3 +1,5 @@
 [user]
 	name = KOMATSU Toshiaki
 	email = tkoma2@gmail.com
+[credential]
+	helper = osxkeychain
