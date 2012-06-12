@@ -89,6 +89,7 @@ Bundle 'git://github.com/pekepeke/titanium-vim.git'
 " syntax for vimperatorrc
 Bundle 'git://github.com/superbrothers/vim-vimperator.git'
 
+" Inserts matching bracket, paren, brace or quote2
 Bundle 'AutoClose'
 
 filetype plugin indent on
