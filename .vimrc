@@ -47,7 +47,7 @@ nnoremap <Esc><Esc> :nohlsearch<CR>
 " ----------------------------------------
 filetype off
 
-set rtp+=~/.vim/bundle/vundle/
+set rtp+=~/.vim/vundle.git/
 call vundle#rc()
 
 " manage plugins
