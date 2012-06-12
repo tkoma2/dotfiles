@@ -165,12 +165,12 @@ nnoremap <space>> <C-w>10>
 nnoremap <space>< <C-w>10<
 
 " complete surroundings
-inoremap '' ''<Left>
-inoremap "" ""<Left>
-inoremap () ()<Left>
-inoremap {} {}<Left>
-inoremap [] []<Left>
-inoremap \|\| \|\|<Left>
+inoremap ' ''<Left>
+inoremap " ""<Left>
+inoremap ( ()<Left>
+inoremap { {}<Left>
+inoremap [ []<Left>
+inoremap \| \|\|<Left>
 
 " hjkl move in insert mode
 inoremap <C-h> <Left>
